@@ -58,6 +58,3 @@ if (dice == 1) {
         }
     }
 }
-basic.forever(function () {
-	
-})
